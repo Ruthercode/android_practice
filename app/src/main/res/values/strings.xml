@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PagislavApp</string>
+    <!-- Strings related to login -->
+
+    <string name="login_a">admin</string>
+    <string name="password_a">admin</string>
+
+    <string name="login_b">user</string>
+    <string name="password_b">12345</string>
+
+    <string name="login_c">Petya</string>
+    <string name="password_c">flex_car228</string>
+
+    <string name="prompt_username">username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
